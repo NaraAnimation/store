@@ -1,0 +1,117 @@
+body{
+background-image: url(https://l.top4top.io/p_3285kgull0.png);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+height: 100%;
+}
+.title{
+text-align: center;
+font-size: 2.5em;
+color: #000;
+}
+.content {
+display: none;
+}
+.fixed-bottom {
+position: fixed;
+bottom:1px;
+right: 20px;
+background-color: transparent;
+padding: 10px;
+}
+.headkotak{
+position: fixed;
+top: 0;
+background-umage: url(https://j.top4top.io/p_3297x2zmt0.png);
+width: 100%;
+left: 0px ;
+}
+.kotak{
+position: fixed;
+width: 650px;
+ledt: 20px;
+background-color: black;
+bottom: 50px;
+Overflow-y: auto;
+top: 905px;
+border-radius: 0 0 30px 30px ;
+}
+.riwayat{
+position: fixed;
+width: 648px;
+ledt: 0px;
+background-image: url(https://h.top4top.io/p_32975zuxi0.png);
+padding: 1px;
+top: 705px;
+border-radius: 30px 30px 0 0;
+}
+button {
+background: none;
+border: none; 
+}
+video {
+width: 100%;
+height: 687px;
+}
+.gambarsatu{
+position: absolute;
+width: 650px;
+height: 200px;
+background-image: url(https://j.top4top.io/p_32965wt8w0.png);
+}
+.gambardua{
+position: absolute;
+width: 650px;
+height: 200px;
+background-image: url(https://j.top4top.io/p_32965wt8w0.png);
+}
+.gambartiga{
+position: absolute;
+width: 650px;
+height: 200px;
+background-image: url(https://j.top4top.io/p_32965wt8w0.png);
+}
+.gambarempat{
+position: absolute;
+width: 650px;
+height: 200px;
+background-image: url(https://j.top4top.io/p_32965wt8w0.png);
+}
+.gambarlima{
+position: absolute;
+width: 650px;
+height: 200px;
+background-image: url(https://j.top4top.io/p_32965wt8w0.png);
+}
+.gambarenam{
+position: absolute;
+width: 650px;
+height: 200px;
+background-image: url(https://j.top4top.io/p_32965wt8w0.png);
+}
+.gambartujuh{
+position: absolute;
+width: 650px;
+height: 200px;
+background-image: url(https://j.top4top.io/p_32965wt8w0.png);
+}
+.gambardelapan{
+position: absolute;
+width: 650px;
+height: 200px;
+background-image: url(https://j.top4top.io/p_32965wt8w0.png);
+}
+.gambarsembilan{
+position: absolute;
+width: 650px;
+height: 200px;
+background-image: url(https://j.top4top.io/p_32965wt8w0.png);
+}
+.gambarsepuluh{
+position: absolute;
+width: 650px;
+height: 200px;
+background-image: url(https://j.top4top.io/p_32965wt8w0.png);
+}
